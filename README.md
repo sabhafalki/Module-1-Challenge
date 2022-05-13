@@ -15,6 +15,12 @@ After analyzing the outcomes, we were able to  conclude the following:
 1. The Theater Plays are most successful between April to Aug each year, with the highest being in May.
 2. There is a steady decline of Successful plays starting from October and ending on Dec each year. October also happens to be the highest number of failures every year.
 3. There were no plays cancelled in October every year
+<br>
+/Module-1-Challenge/resources/Theater_Outcomes_vs_Launch.png
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/sabhafalki/Module-1-Challenge/master/resources/Theater_Outcomes_vs_Launch.png)
+
 <br><br>
 
 ###### Analysis of Outcomes Based on Goals ######
