@@ -1,4 +1,4 @@
-########    Overview of Project    ########
+#####    Overview of Project    #####
 The purpose of this Project is to visualize the campaign outcomes based on their launch dates and their funding goals. The data set ranges from 2009 to 2017, with multiple Theatres/Plays under consideration. 
 
 
